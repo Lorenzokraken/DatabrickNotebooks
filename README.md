@@ -1,4 +1,4 @@
-# 🚀 Guida Databricks/Spark per Data Scientist
+# 🚀 Guida Databricks/Spark
 
 > **Per chi**: Data scientist che conosce ML e Pandas ma NON Spark/Databricks  
 > **Obiettivo**: Imparare Spark e Databricks per lavorare con Big Data
